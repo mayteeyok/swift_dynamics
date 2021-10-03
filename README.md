@@ -2,6 +2,25 @@
 
 This is Flutter application for Swift Dynamics Examination.
 
+## Detail
+
+This application use NavigationDrawer for show 3 menus:
+
+### To Do List
+
+- If you want to add To do list please click on the FloatingActionButton.
+- If you want to remove To do list please long press on the list.
+
+### Calculator
+
+- You can use calculator normally. It same as Windows Calculator but less function.
+
+### Personal Data
+
+- If you want to add Person please click on the FloatingActionButton.
+- If you want to remove Person please long press on the list.
+- If you want to view person detail please click on the list.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
