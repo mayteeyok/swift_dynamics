@@ -1,6 +1,6 @@
-# swift_dynamic
+# swift_dynamics
 
-A new Flutter application.
+This is Flutter application for Swift Dynamics Examination.
 
 ## Getting Started
 
