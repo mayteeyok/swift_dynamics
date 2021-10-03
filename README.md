@@ -9,7 +9,7 @@ This is Flutter application for Swift Dynamics Examination.
 
 ## Detail
 
-This application use NavigationDrawer for show 3 menus:
+This application using NavigationDrawer for show 3 menus:
 
 ### To Do List
 
