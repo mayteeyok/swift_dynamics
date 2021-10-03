@@ -2,6 +2,11 @@
 
 This is Flutter application for Swift Dynamics Examination.
 
+## Installation
+
+- Command: flutter clean
+- Command: flutter run
+
 ## Detail
 
 This application use NavigationDrawer for show 3 menus:
